@@ -1,6 +1,6 @@
 # Cordova Starter App
 
-A boilerplate for Cordova projects that are easier to maintain. More information can be found in this [blog post](http://joelambert.co.uk/articles/xxx).
+A boilerplate for Cordova projects that are easier to maintain. More information can be found in this [blog post](http://joelambert.co.uk/articles/maintainable-cordova-boilerplate).
 
 ## Setup
 
